@@ -28,7 +28,7 @@ public class VentanaPrincipal extends JFrame{
 	public VentanaPrincipal(Controlador pControlador){
 		control = pControlador;
 		
-		setTitle("CALCULO DE CREDITOS DE CUOTA FIJA");
+		setTitle("CÁLCULO DE CRÉDITOS DE LA CUOTA FIJA");
 
 		
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
